@@ -7,7 +7,7 @@ import { Title, Meta } from '@angular/platform-browser'
   styleUrls: ['profile.component.css'],
 })
 export class Profile {
-  rawql71: string = ' '
+  rawtc3x: string = ' '
   constructor(private title: Title, private meta: Meta) {
     this.title.setTitle('Profile - ptcg.tech')
     this.meta.addTags([

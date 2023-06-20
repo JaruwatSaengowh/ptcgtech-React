@@ -8,6 +8,6 @@ import { Component, Input } from '@angular/core'
 export class FooterGray {
   @Input()
   rootClassName: string = ''
-  rawf995: string = ' '
+  rawi76a: string = ' '
   constructor() {}
 }
